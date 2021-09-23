@@ -1,14 +1,14 @@
 {
-    "name": "Gaurav Ghati",
-    "phone": "+91 9067365762",
-    "mail": "gauravghati225@gmail.com",
+    "name": "Joshua Allen",
+    "phone": "N/A",
+    "mail": "jallen2@g.clemson.edu",
 
     "bio": "MY BIO",
     "fun": "FUN STATEMENT",
 
-    "github": "https://github.com/gauravghati/",
-    "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
+    "github": "https://github.com/JoshuaAllenPH/",
+    "twitter": "N/A",
+    "linkedin": "N/A",
 
     "aboutme": {
         "para1": "This is Paragraph 1",
@@ -17,8 +17,8 @@
 
     "volunteer": {
         "tfi": {
-            "heading": "Teach For India",
-            "description": "description of TFI"
+            "heading": "Stuff",
+            "description": "Lots of Stuff"
         },
         "pisb": {
             "heading": "PICT IEEE Student Branch",
